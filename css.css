@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Zen+Antique&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Zen+Antique&display=swap');
+button {
+  font-family: "Questrial", sans-serif;
+  font-weight: bolder;
+  font-size: 25px;
+  color: #B392AC;
+  border-radius: 5px;
+  width: 20%;
+  height: 30px;
+  cursor: pointer;
+  background-color: #E8C2CA;
+  margin: 3px;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  padding-top: 6em;
+}
+body {
+  background-color: #B5838D;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  font-size: 60px;
+  color:#735D78;
+
+}
+
+input {
+    background-color: #F7D1CD;
+    padding: 0.3em;
+    font-size: 30px;
+    font-family: 'Zen Antique', serif;
+    width: 50%;
+    margin: 3px;
+}
